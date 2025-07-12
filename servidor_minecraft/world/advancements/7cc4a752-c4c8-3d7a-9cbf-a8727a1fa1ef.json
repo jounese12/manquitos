@@ -350,6 +350,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-12 23:38:12 +0000",
       "minecraft:jungle": "2025-07-12 05:56:43 +0000"
     },
     "done": false
@@ -369,6 +370,18 @@
   "alexscaves:alexscaves/dreadbow": {
     "criteria": {
       "dreadbow": "2025-07-12 06:00:45 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-12 23:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-12 23:38:59 +0000"
     },
     "done": true
   },
