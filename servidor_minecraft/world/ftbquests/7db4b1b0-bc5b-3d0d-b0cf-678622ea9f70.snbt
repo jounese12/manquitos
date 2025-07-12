@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7db4b1b0bc5b3d0db0cf678622ea9f70"
+	name: "TundraVT#7db4b1b0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
