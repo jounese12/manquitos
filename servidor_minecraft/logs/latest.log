@@ -2740,3 +2740,6 @@ java.util.NoSuchElementException: No value present
 [12Jul2025 23:40:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TundraVT has made the advancement [Getting an Upgrade]
 [12Jul2025 23:41:29.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TundraVT lost connection: Disconnected
 [12Jul2025 23:41:29.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TundraVT left the game
+[12Jul2025 23:47:12.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jounese12 lost connection: Timed out
+[12Jul2025 23:47:12.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jounese12 left the game
+[12Jul2025 23:47:12.539] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
